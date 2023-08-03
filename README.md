@@ -7,13 +7,7 @@ magine
   <a href="https://gitter.im/TheAlgorithms/community">
     <img src="https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square" height="20" alt="Gitter chat">
   </a>
-  <!-- Second row: -->
-    <img src="https://img.shields.io/static/v1?label=code%20style&message=black&color=black&style=flat-square" height="20" alt="code style: black">
-  </a>
-<!-- Short description: -->
-  <h3>All algorithms implemented in Python - for education</h3>
-</div>
-    <img src="https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square" height="20" alt="Discord chat">
+  <!-- Second row: -->25556682782.svg?logo=discord&colorB=7289DA&style=flat-square" height="20" alt="Discord chat">
   </a>
   <a href="https://gitter.im/TheAlgorithms/community">
     <img src="https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square" height="20" alt="Gitter chat">
